@@ -1,5 +1,5 @@
 # JAVA_STREAM_PRINTWRITER
-Permettere di scrivere quasiasi contenuto (anche byte e oggetti) codificato come stringa nel file associato, molto usato nelle applicazioni web (Servlet).
+Permettere di scrivere qualsiasi contenuto (anche byte e oggetti) codificato come stringa nel file associato, molto usato nelle applicazioni web (Servlet).
 Costruttiri:
 <ol>
   <li>PrintWriter(File f)</li>
